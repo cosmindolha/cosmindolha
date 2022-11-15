@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cosmindolha
+- 👀 I’m interested in Swift, ML, Statistics, Data Science, Finance, Analytics, Economy
+- 📫 How to reach me http://cosmindolha.com
